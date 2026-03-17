@@ -25,7 +25,8 @@
           name="Xml"/>
       </watched>
       <dir
-        name="node_modules">
+        name="node_modules"
+        excluded="true">
         <dir
           name="@mongodb-js">
           <dir
