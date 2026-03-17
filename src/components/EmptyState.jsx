@@ -1,3 +1,4 @@
+import React from "react";
 export default function EmptyState({ title, body, action = null }) {
   return (
     <div className="empty-state card">

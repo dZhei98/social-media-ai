@@ -1,3 +1,4 @@
+import React from "react";
 import EmptyState from "./EmptyState.jsx";
 import PostCard from "./PostCard.jsx";
 

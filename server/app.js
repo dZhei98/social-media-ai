@@ -7,7 +7,7 @@ import postRoutes from "./routes/posts.routes.js";
 import userRoutes from "./routes/users.routes.js";
 import { attachCurrentUser } from "./middleware/auth.js";
 import { errorHandler, notFound } from "./middleware/error.js";
-import { renderApp } from "./ssr/render.js";
+import { renderApp } from "./ssr/render.jsx";
 
 const currentFile = fileURLToPath(import.meta.url);
 const currentDir = path.dirname(currentFile);

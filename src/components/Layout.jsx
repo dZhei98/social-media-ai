@@ -1,3 +1,4 @@
+import React from "react";
 import NavBar from "./NavBar.jsx";
 import NoticeRegion from "./NoticeRegion.jsx";
 

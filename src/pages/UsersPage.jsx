@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useAuth } from "../context/AuthContext.jsx";
 import { useNotice } from "../context/NoticeContext.jsx";
 import { apiRequest } from "../lib/api.js";

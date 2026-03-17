@@ -1,3 +1,4 @@
+import React from "react";
 import { useNotice } from "../context/NoticeContext.jsx";
 
 export default function NoticeRegion() {

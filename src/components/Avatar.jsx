@@ -1,3 +1,4 @@
+import React from "react";
 import { avatarUrl } from "../lib/routes.js";
 
 export default function Avatar({ user, size = "medium" }) {

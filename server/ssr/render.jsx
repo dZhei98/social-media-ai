@@ -32,6 +32,7 @@ export function renderApp(req, res) {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="MERN Social is a lightweight social network for sharing updates, discovering people, and following friends." />
     <title>MERN Social</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="stylesheet" href="/styles/main.css" />
   </head>
   <body>
